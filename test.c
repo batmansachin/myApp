@@ -1,1 +1,1 @@
-f,dng,ndf,mgnf,mgnds,mgn
+f,i,db,bnd,nb,nb,mn,ng,ndf,mgnf,mgnds,mgn
